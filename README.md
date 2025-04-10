@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey my name is Amir<br>📁 I'm currently working on a Modern Portfolio Website.<br>🖥️ I enjoy Linux and Back-end development.<br>🏎️ I'm also a car enthusiast and I enjoy motorsports and modifying my car.
+Hey my name is Amir<br>📁 I'm currently working on a [REDACTED].<br>🖥️ I enjoy Linux and Back-end development.<br>🏎️ I'm also a car enthusiast and I enjoy motorsports and modifying my car.
 
 
 ## 🌐 Socials:
